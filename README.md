@@ -6,6 +6,7 @@ I work somewhere between product ideas, architecture, and the code that has to s
 
 ## Some apps I've shipped
 
+* [TapFocus](https://apps.apple.com/us/app/tapfocus-app-blocker/id6769974985) - blocks distracting apps, then makes unlocking them physical with NFC tags, QR codes, or barcodes.
 * [HealthCharts](https://daviesgeek.com/Apps-Projects/HealthCharts/) - visualizes Apple Health data with custom dashboards, 100+ HealthKit metrics, charts, and on-device privacy.
 * [Snaptic / Reaction Trainer](https://daviesgeek.com/Apps-Projects/Reaction-Trainer/) - a reaction-time trainer with local stats, Game Center leaderboards, achievements, and daily practice reminders.
 * [Weekly Picks](https://daviesgeek.com/Apps-Projects/Weekly-Picks/) - organizes existing photos into weekly albums locally, without uploading or tracking anything.
