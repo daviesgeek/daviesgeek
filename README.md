@@ -6,13 +6,14 @@ I work somewhere between product ideas, architecture, and the code that has to s
 
 ## Some things either I've built or contributed heavily to
 
-- [MeshInfo](https://github.com/MeshAddicts/meshinfo) - realtime maps, telemetry, chat, topology, and RF coverage for Meshtastic mesh networks.
-- [slideshow-creator](https://github.com/daviesgeek/slideshow-creator) - a SwiftUI macOS app for turning folders of photos and music into MP4 slideshows with FFmpeg.
-- [hindsight-sync](https://github.com/daviesgeek/hindsight-sync) - syncs Obsidian Markdown notes into a local Hindsight memory bank backed by Postgres and pgvector.
 - [daviesgeek.com](https://github.com/daviesgeek/daviesgeek.com) - my Quartz-powered personal site, digital garden, and public notes repo.
+- [slideshow-creator](https://github.com/daviesgeek/slideshow-creator) - a SwiftUI macOS app for turning folders of photos and music into MP4 slideshows with FFmpeg.
+- [speedbar](https://github.com/daviesgeek/speedbar) - an open source alternative to Raycast or Alfred, not quite finished yet, but I've got plans for it!
+- [hindsight-sync](https://github.com/daviesgeek/hindsight-sync) - syncs Obsidian Markdown notes into a local Hindsight memory bank backed by Postgres and pgvector.
 - [meshtastic-mqtt-discord-bridge](https://github.com/daviesgeek/meshtastic-mqtt-discord-bridge) - bridges Meshtastic MQTT traffic into Discord for local mesh communities.
 - [guetzli-gui](https://github.com/daviesgeek/guetzli-gui) - a small Mac GUI for Google's Guetzli JPEG encoder.
 - [git-revision](https://github.com/daviesgeek/git-revision) - a tiny Node module for reading git revision information.
+- [MeshInfo](https://github.com/MeshAddicts/meshinfo) - realtime maps, telemetry, chat, topology, and RF coverage for Meshtastic mesh networks.
 
 ## Elsewhere
 
