@@ -12,7 +12,7 @@ I work somewhere between product ideas, architecture, and the code that has to s
 * [Weekly Picks](https://daviesgeek.com/Apps-Projects/Weekly-Picks/) - organizes existing photos into weekly albums locally, without uploading or tracking anything.
 * [Intel Helper for Ingress](https://daviesgeek.com/Apps-Projects/Intel-Helper) - a companion app for Ingress intel workflows, including saved locations and faster map navigation.
 
-## Open source & public work
+## Open source work
 
 * [daviesgeek.com](https://github.com/daviesgeek/daviesgeek.com) - my Quartz-powered personal site, digital garden, and public notes repo.
 * [slideshow-creator](https://github.com/daviesgeek/slideshow-creator) - a SwiftUI macOS app for turning folders of photos and music into MP4 slideshows with FFmpeg.
