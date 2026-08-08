@@ -23,6 +23,7 @@ I work somewhere between product ideas, architecture, and the code that has to s
 * [guetzli-gui](https://github.com/daviesgeek/guetzli-gui) - a small Mac GUI for Google's Guetzli JPEG encoder.
 * [git-revision](https://github.com/daviesgeek/git-revision) - a tiny Node module for reading git revision information.
 * [MeshInfo](https://github.com/MeshAddicts/meshinfo) - real-time maps, telemetry, chat, topology, and RF coverage for Meshtastic mesh networks.
+* [Lukr](https://github.com/daviesgeek/lukr) - A simple, versioned HTML plan viewer for your agent
 
 ## Elsewhere
 
